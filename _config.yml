@@ -1,3 +1,6 @@
 title: Sophia 
 theme: minima
 
+header_pages:
+  - about.md
+  - writing.md
