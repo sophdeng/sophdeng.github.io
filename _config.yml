@@ -11,5 +11,10 @@ header_pages:
 - about.md
 - writing.md
 
+# Social links in Footer 
+  social_links:
+    twitter: sophdeng
+    linkedin: sophdeng
+
 # Build settings
 theme: minima
