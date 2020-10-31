@@ -3,18 +3,17 @@ author:
 show_excerpts: false
 
 # Minima date format
+# Social links in Footer 
 minima:
   date_format: "%B %Y"
+  social_links:
+    twitter: sophdeng
+    linkedin: sophdeng
 
 # Header 
 header_pages:
 - about.md
 - writing.md
-
-# Social links in Footer 
-  social_links:
-    twitter: sophdeng
-    linkedin: sophdeng
 
 # Build settings
 theme: minima
