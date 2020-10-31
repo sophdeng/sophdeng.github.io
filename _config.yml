@@ -4,6 +4,10 @@ author:
   email: 
 show_excerpts: false
 
+# Minima date format
+minima:
+  date_format: "%B %Y"
+
 # Header 
 header_pages:
 - about.md
