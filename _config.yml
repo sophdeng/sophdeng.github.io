@@ -13,7 +13,7 @@ minima:
 # Header 
 header_pages:
 - about.md
-- writing.md
+#- writing.md
 
 # Build settings
 theme: minima
