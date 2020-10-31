@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Writing
+list_title: ' '
 ---
 
 :wave:
