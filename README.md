@@ -1,4 +1,2 @@
-# sophdeng.github.io
-
-#Build settings
+# Build settings
 theme: minima
