@@ -15,5 +15,4 @@ Right now, I'm actively exploring several areas:
   <li> How more people can make money </li>
 </ol>
 <br>
-<br>
 💌 If you're interested in the above or just want to chat, I'd love to hear from you:  `sophia[dot]y[dot]deng[at]gmail[dot]com`
