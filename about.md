@@ -6,13 +6,6 @@ permalink: /about/
 
 Hi, I'm Sophia. 
 <br> <br>
-I'm figuring out what's next, after working in product and operations at <a href="http://instacart.com/">Instacart</a>, <a href="https://gigster.com/">Gigster</a> and <a href="https://ramp.com/">Ramp</a>.  I like wrangling big problems and collaborating with driven and high-integrity people.  
+I work in product at <a href="https://remote.com/">Remote</a>, and previously was at <a href="http://instacart.com/">Instacart</a>, <a href="https://gigster.com/">Gigster</a> and <a href="https://ramp.com/">Ramp</a> in operational and product roles.  Being fairly or very early at four hyper-growth startups has been ridiculously masochistic. At the same time, there's no other better way to learn how to build companies and things people want. I hope some of my thinking will be interesting to you.   
 
-Right now, I'm actively exploring several areas:
-<ol>
-  <li> New paradigms of social connection </li>
-  <li> Tools of 21st century work </li>
-  <li> How more people can make money </li>
-</ol>
-<br>
-💌 If you're interested in the above or just want to chat, I'd love to hear from you:  `sophia[dot]y[dot]deng[at]gmail[dot]com`
+💌 If you wanna chat, feel free to DM on <a href="https://twitter.com/sophdeng">Twitter</a>.
