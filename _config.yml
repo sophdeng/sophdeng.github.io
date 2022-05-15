@@ -4,12 +4,14 @@ show_excerpts: false
 description: 
 
 # Minima date format
-# Social links in Footer 
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%B %Y"
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
   social_links:
     twitter: sophdeng
-    linkedin: soph-deng
+    linkedin:  soph-deng
 
 # Header 
 header_pages:
