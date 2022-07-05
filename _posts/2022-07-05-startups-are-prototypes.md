@@ -15,7 +15,7 @@ As “first-formed” vehicles, comprised of people and ideas, startups aim to a
 
 At [Gigster](https://gigster.com/), I saw how challenging it was to answer and focus on answering these questions. The company’s initial software development service had product-market-fit with the Ss of SMBs. However, the small contract sizes put a question mark on how the company could get economies of scale. In response, the company pivoted to serve enterprise clients instead of startups.[^1] Business viability became better due to the larger contract sizes, but Gigster’s product had to fundamentally change for the new market.[^2]
 
-During this existential time, every single person should have dropped what they were doing.[^3] Either to [idea maze](https://cdixon.org/2013/08/04/the-idea-maze) what the new value  and product  Gigster offered to enterprises was, or to idea maze how to scale with SMBs. Getting clarity here was what singularly mattered[^4].
+During this existential time, every single person should have dropped what they were doing.[^3] Either to [idea maze](https://cdixon.org/2013/08/04/the-idea-maze) what the new value  and product  Gigster offered to enterprises was, or to idea maze how to scale with SMBs. Getting clarity here was what singularly mattered.
 
 Thinking from a prototyping lens highlights several learnings.
 
@@ -23,13 +23,14 @@ First, there is power in being acutely aware and focused on the questions that n
 
 Thinking about prototypes also gives a sense of the conditions for successful prototyping. The most conducive environment for figuring things out quickly and cheaply is one with a high learning velocity. In a startup, people are not just working on a product — they’re also collectively building the machine that builds the product. The better a company can adjust to new information and create real value for users, the better the chance to validate its existence before cash runs out. The ideal company is therefore a learning machine, one that continually improves its decision-making and execution abilities.
 
-Funding plays an interesting role in all of this. Money is beneficial because it extends the amount of validation time. But it can be dangerous in the prototyping process[3]. Venture capital is especially complicated because companies are expected to demonstrate unnaturally large outcomes at an unnaturally fast pace. This puts downward pressure on intellectual rigor, which requires enormous, deliberate force from the team to counteract.
+Funding plays an interesting role in all of this. Money is beneficial because it extends the amount of validation time. But it can be dangerous in the prototyping process.[^4] Venture capital is especially complicated because companies are expected to demonstrate unnaturally large outcomes at an unnaturally fast pace. This puts downward pressure on intellectual rigor, which requires enormous, deliberate force from the team to counteract.
 
 Whether it’s a lack of awareness or rigor, when it comes to questions of product-market fit or the business’s raison d'être, there is nowhere to hide. These existential questions must be answered. Or else.
 
 _Thanks to [Veeral](https://twitter.com/vral) and [Debo](https://twitter.com/dolaoseb) for reading early drafts of this writing. And special thanks to Debo, as always, for letting me work for and work with you._
 
 ---
+
 
 [^1]: Aside from the economic viability question, there was another seed of the potential pivot. Gigster was doing work for a several enterprise clients, and the customer satisfaction scores on these projects were very high. 
     
