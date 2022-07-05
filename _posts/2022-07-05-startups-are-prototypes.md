@@ -29,6 +29,8 @@ Whether it’s a lack of awareness or rigor, when it comes to questions of produ
 
 _Thanks to [Veeral](https://twitter.com/vral) and [Debo](https://twitter.com/dolaoseb) for reading early drafts of this writing. And special thanks to Debo, as always, for letting me work for and work with you._
 
+---
+
 [^1]: Aside from the economic viability question, there was another seed of the potential pivot. Gigster was doing work for a several enterprise clients, and the customer satisfaction scores on these projects were very high. 
     
 [^2]: The software that a 1000+ company needs is not the standalone, lower complexity web/mobile applications Gigster had refined for startups.
