@@ -9,6 +9,8 @@ Being technical is a knowledge and skill state. The more someone understands a s
 
 Being technological is a mindset. At its core, it’s an optimistic belief in progress, which any open-minded person can access. As one ascends the hierarchy of being technological, the details around the what and the how of technology become more important.
 
+<img src = “assets/css/images/technological pyramid.png”>
+
 A technical person isn’t necessarily technological. Imagine a software engineer who is technically excellent, but doesn’t hold a progressive view that things in the world should be better, that software is one way to create change. To this person, software — a technological medium — isn’t imbued with a deeper purpose around progress. Instead, it’s just a utility to perform actions or a surface area to improve one’s craft.
 
 On the flip side, a person can be technological and not technical. This person may not possess deep specialized knowledge. But they do care to solve problems for people and understand that technology is a way to do that.
