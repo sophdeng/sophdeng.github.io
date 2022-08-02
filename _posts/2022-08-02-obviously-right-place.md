@@ -33,5 +33,5 @@ We should be welcoming all technological people — from the highly technica
   
 [^1]:  Even if it's a low level, being technological requires a non-zero understanding of technology as the medium to effect change.  These coworkers all grokked the technology our company built, and possessed enough basics to reason how software was fundamentally a better way to solve users’ problems. Put it another way, being generally progressive is not sufficient for being technological (progress + technology). 
 
-[^2]: The title of my piece pays homage to [Virgil Abloh](https://en.wikipedia.org/wiki/Virgil_Abloh)'s 2017 collection, "You're Obviously in the Wrong Place," which was originally inspired by [this scene in "Pretty Woman."](https://www.youtube.com/watch?v=VxcU4q6KLyA).   Other details about his thinking [here](https://www.wbur.org/news/2021/07/01/ica-virgil-abloh-figures-of-speech).
+[^2]: The title of this piece is a nod to [Virgil Abloh](https://en.wikipedia.org/wiki/Virgil_Abloh)'s 2017 collection, "You're Obviously in the Wrong Place," which was originally inspired by [this scene in "Pretty Woman."](https://www.youtube.com/watch?v=VxcU4q6KLyA). It speaks to unnecessary and questionable gatekeeping. Let's be nicer to those who try and dream. Some of Abloh's periphery thinking is [here](https://www.wbur.org/news/2021/07/01/ica-virgil-abloh-figures-of-speech).
 
