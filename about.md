@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Sophia. 
 <br> <br>
-I work in product at <a href="https://remote.com/">Remote</a>, and previously was at <a href="http://instacart.com/">Instacart</a>, <a href="https://gigster.com/">Gigster</a> and <a href="https://ramp.com/">Ramp</a> in product, operations and anything in-between.  
+I work in product at <a href="https://remote.com/">Remote</a>, and previously was at <a href="http://instacart.com/">Instacart</a>, <a href="https://gigster.com/">Gigster</a> and <a href="https://ramp.com/">Ramp</a> doing product, operations and anything in-between.  
 
 Being early or very early at four hyper-growth startups has been ridiculously masochistic. At the same time, there's no other better way to learn how to build companies and things people want. I hope some of my thinking will be interesting to you. 
 
