@@ -10,6 +10,6 @@ I work in product at <a href="https://remote.com/">Remote</a>, and previously wa
 
 Being early or very early at four hyper-growth startups has been ridiculously masochistic. At the same time, there's no other better way to learn how to build companies and things people want. I hope some of my thinking will be interesting to you. 
 
-🛎️ If you want to subscribe to my writing, do so <a href="https://mirror.xyz/0x32721B54a9e3B5ec2eCc539EbB73F35c4c816b8c/subscribe">here via my Mirror</a>.  You will need a crypto wallet. That's what happens when I make the rules. 
+🛎️ If you want to subscribe to my writing, do so <a href="https://mirror.xyz/0x32721B54a9e3B5ec2eCc539EbB73F35c4c816b8c/subscribe">here via Mirror</a>.  You will need a crypto wallet. That's what happens when I make the rules. 
 
 💌 If you want to chat, DM me on <a href="https://twitter.com/sophdeng">Twitter</a>.
