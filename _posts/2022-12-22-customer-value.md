@@ -23,4 +23,4 @@ Although I firmly believe that investing in a good customer experience makes cus
 
 As runways run out in the next 2-3 years, it will be fascinating to see which Emperors have no clothes – which companies have sold a vision, but haven’t been able to convert vision-to-value for their customers. The last years of frantically acquiring customers only adds to the maelstrom. Do customers actually have the problem the company is solving, or are they there for the free show?  Only time will tell.  
 
-Until then, I hope companies take a step back - maybe even reset - how they create customer value, and how they’ll do that through product development.  Other than cash, being valuable is the best medicine for staying alive. 
+Until then, I hope companies take a step back - maybe even reset - how they create customer value, and how they’ll do that through product development.  Other than cash, creating value is the best medicine for staying alive. 
