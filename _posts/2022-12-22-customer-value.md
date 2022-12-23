@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where customer value comes from"
+title: "The source of customer value"
 ---
 
 Creating customer value is the raison d'être for a company. 
