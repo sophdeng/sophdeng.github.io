@@ -40,6 +40,6 @@ It's harder to find valuable problems to solve in B2B. But there's still excitin
  ---
 
 
-[^1]: This is according to Bettercloud's 2020 State of SaaSOps Report: https://pages.bettercloud.com/rs/719-KZY-706/images/2020_StateofSaaSOpsReport.pdf
+[^1]: This is according to [Bettercloud's 2020 State of SaaSOps Report](https://pages.bettercloud.com/rs/719-KZY-706/images/2020_StateofSaaSOpsReport.pdf). 
 
-[^2]: This is the source: https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/, but I'm not sure how the stat is calculated. 
+[^2]: Source [here](https://techcrunch.com/2022/07/28/retool-raises-45m-at-a-3-2b-valuation-to-make-building-custom-software-as-easy-as-buying-off-the-shelf/), but I'm not sure how the stat is calculated. 
