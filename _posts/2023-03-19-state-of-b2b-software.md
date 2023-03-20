@@ -23,7 +23,7 @@ Just like Salesforce for sales, the request handling scaffolding has up-leveled 
 
 Where does that leave us? Throwing out more B2B products without any point-of-view or depth will continue to have diminishing returns for users. One way forward for anyone looking to build B2B software is to take the other side of the product tradeoff. Especially in highly immersive and specialized verticals, there's still opportunity to increase how useful third-party software scaffolding is. The scaffolding will address a far narrower base of users, but it will be more useful to customers than a generic scaffolding tool. 
 
-The other path forward could be extreme software customization. Internal software is around 50% of all software [^2]. I think that number will either stay the same or rise in future.  There seems to be a metabolism to how much third-party software can simply solve for companies, given that all companies are snowflakes and given the tradeoffs any product serving more than 1 customer has to make. 
+The other path forward could be extreme software customization. Internal software is around 50% of all software [^2]. I think that number will either stay the same or rise in the future.  There seems to be a metabolism to how much third-party software can simply solve for companies, given that all companies are snowflakes and given the tradeoffs any product serving more than 1 customer has to make. 
 
 Is this then a bull case for custom software? 
 
