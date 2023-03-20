@@ -37,6 +37,8 @@ It's harder to find valuable problems to solve in B2B. But there's still excitin
 
  _Some essays I read while writing this include Kellan Elliott-McCrea's ["Software and its Discontents, Part 2](https://laughingmeme.org/2023/01/23/software-and-its-discontents-part-2-complexity.html) and Tristan Handy's ["The Modern Data Stack: Past, Present, and Future"](https://www.getdbt.com/blog/future-of-the-modern-data-stack/)._
 
+ ---
+
 
 [^1]: This is according to Bettercloud's 2020 State of SaaSOps Report: https://pages.bettercloud.com/rs/719-KZY-706/images/2020_StateofSaaSOpsReport.pdf
 
